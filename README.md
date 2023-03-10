@@ -1,26 +1,18 @@
-<div id="profile" align="center">
-  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="giphy dev"/>
+<div id="profile" align="center" style="padding-bottom: 30px">
+  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="giphy dev" style="max-width: 150px"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vitorsferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/LeVitorFerreira">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<!--
-**vitorstick/vitorstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me :
+ - Yes, I am ✨ _special_ ✨
+ - I am currently working on learning how to parse some website using puppetter and node
+ - Always focused on frontend
+ - Looking to learn more about SSR, would love to try some of the new tools for that
+ - And I am Benfica Fan, living in Portugal
