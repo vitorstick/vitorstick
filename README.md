@@ -5,10 +5,7 @@
 
 ###  About Me :
  - Yes, I am ✨ _special_ ✨
- - I am currently working on learning how to parse some website using puppetter and node
- - Always focused on frontend
- - Looking to learn more about SSR, would love to try some of the new tools for that
- - And I am Benfica Fan, living in Portugal
+ - Very focused on frontend
  - Reach me on:
 
 
